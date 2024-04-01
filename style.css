@@ -1,0 +1,17 @@
+.title{
+    font-size: 8rem;
+    border: 2px #000 solid;
+    background-color: #fff;
+}
+.button{
+    font-size: 3rem;
+    border-radius: 1rem;
+    transition: 0.5s ease-in-out;
+}
+button:hover{
+    transform: scaleX(1.5);
+}
+
+#label,#confidence{
+    font-size: 3rem;
+}
